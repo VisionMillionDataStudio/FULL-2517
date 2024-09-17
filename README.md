@@ -671,4 +671,4 @@ __all__ = 'register_tracker', 'BOTSORT', 'BYTETracker'  # 指定可以被外部�
 ![19.png](19.png)
 
 
-# [下载链接：D:\tools\20240905\Temporary](D:\tools\20240905\Temporary)
+# [下载链接：https://mbd.pub/o/bread/ZpuWlJ5y](https://mbd.pub/o/bread/ZpuWlJ5y)
